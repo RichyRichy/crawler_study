@@ -1,0 +1,17 @@
+{
+  "name": "crawler_jianshu",
+  "version": "1.0.0",
+  "description": "爬取简书的热门文章",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test",
+    "start":"node index.js"
+  },
+  "author": "richy ren",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.17.0",
+    "cheerio": "^0.22.0",
+    "nunjucks": "^2.5.2"
+  }
+}
